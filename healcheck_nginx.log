@@ -1,0 +1,8 @@
+{"file":"/home/mannk/go/src/healcheck_nginx/cmd/root.go:142","func":"healcheck_nginx/cmd.rootRun","level":"error","msg":"Get \"\": unsupported protocol scheme \"\"","time":"2024-01-24T15:39:21+07:00"}
+{"file":"/home/mannk/go/src/healcheck_nginx/cmd/root.go:109","func":"healcheck_nginx/cmd.initConfig","level":"info","msg":"config.toml file at ./ folder is not exist. Creating it...","time":"2024-01-24T15:44:11+07:00"}
+{"file":"/home/mannk/go/src/healcheck_nginx/cmd/root.go:115","func":"healcheck_nginx/cmd.initConfig","level":"info","msg":"NGINX_IP:172.172.0.234","time":"2024-01-24T15:44:11+07:00"}
+{"file":"/home/mannk/go/src/healcheck_nginx/cmd/root.go:142","func":"healcheck_nginx/cmd.rootRun","level":"error","msg":"Get \"\": unsupported protocol scheme \"\"","time":"2024-01-24T15:44:11+07:00"}
+{"file":"/home/mannk/go/src/healcheck_nginx/cmd/root.go:111","func":"healcheck_nginx/cmd.initConfig","level":"info","msg":"NGINX_IP:172.172.0.234","time":"2024-01-24T16:14:19+07:00"}
+{"file":"/home/mannk/go/src/healcheck_nginx/cmd/root.go:111","func":"healcheck_nginx/cmd.initConfig","level":"info","msg":"NGINX_IP:172.172.0.234","time":"2024-01-24T16:14:38+07:00"}
+{"file":"/home/mannk/go/src/healcheck_nginx/cmd/root.go:111","func":"healcheck_nginx/cmd.initConfig","level":"info","msg":"NGINX_IP:172.172.0.234","time":"2024-01-24T16:15:00+07:00"}
+{"file":"/home/mannk/go/src/healcheck_nginx/cmd/root.go:146","func":"healcheck_nginx/cmd.rootRun","level":"error","msg":"Get \"http://172.172.0.2345/status/bestatus\": dial tcp: lookup 172.172.0.2345: no such host","time":"2024-01-24T16:15:35+07:00"}
